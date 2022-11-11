@@ -10,6 +10,10 @@
 
 ~~费劲手敲，重复造轮子，不务正业，有啥意义。别骂了别骂了😭~~
 
+## Quick Look
+
+![QuickLook](QuickLook.gif)
+
 # 方法
 
 ## 浓缩一下
